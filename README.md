@@ -3,12 +3,10 @@
 A simple and fun web-based cricket simulation game with animations, score updates, and a game-over screen.
 
 ## Live Demo
-Add your live deployment link here  
-Example: https://interactive-cricket-game.netlify.app/
+https://interactive-cricket-game.netlify.app/
 
 ## GitHub Repository
-Add your GitHub repository link here  
-Example: https://github.com/parthiv2K07/Interactive-Cricket-Game
+https://github.com/parthiv2K07/Interactive-Cricket-Game
 
 ## Game Instructions
 
