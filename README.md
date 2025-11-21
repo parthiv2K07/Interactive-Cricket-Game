@@ -4,11 +4,11 @@ A simple and fun web-based cricket simulation game with animations, score update
 
 ## Live Demo
 Add your live deployment link here  
-Example: https://yourusername.github.io/cricket-game/
+Example: https://interactive-cricket-game.netlify.app/
 
 ## GitHub Repository
 Add your GitHub repository link here  
-Example: https://github.com/yourusername/cricket-game
+Example: https://github.com/parthiv2K07/Interactive-Cricket-Game
 
 ## Game Instructions
 
@@ -55,7 +55,7 @@ cricket-game/
 
 ## How to Run Locally
 1. Clone the repository:
-   git clone https://github.com/yourusername/cricket-game.git
+   git clone https://github.com/parthiv2K07/Interactive-Cricket-Game
 
 2. Open the folder.
 
